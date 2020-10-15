@@ -45,6 +45,7 @@ You may be wondering what all are the applications of Python. There are so many 
 
 5. **Python in a Nutshell** : If you believe in learning from books and thorough understanding of the text, then this book will satisfy your geekiness. This book provides all the insights of python3 and is in simply understandable text also recommend the book **Learn Python the Hard Way**. You can easily find the ebook of these on the internet.
 
+6. **Coursera** : There are some excellent courses to learn python especially for the course **Google IT Automation with Python Professional Certificate** which is provided by **Google**. They provide reading materials, video tutorials and online practices and assessments. User could also gain certificates after completing them.
 ## Check [Getting Started with Machine leaning](/GETTING_STARTED_WITH_ML.md) to get Mahcine learning Resources
 
 * **Github** - https://github.com/py-contributors
